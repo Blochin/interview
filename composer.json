@@ -1,0 +1,5 @@
+{
+  "autoload": {
+    "classmap": ["App/Actions", "App/Edge", "App/Graph", "App/Vertex"]
+  }
+}
